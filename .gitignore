@@ -2,3 +2,5 @@ datasets/*
 !datasets/*.sh
 model
 abc.txt
+.ipynb_checkpoints/
+run.sh
