@@ -1,0 +1,3 @@
+model
+datasets/*
+!datasets/get_tiny_imagenet_a.sh
